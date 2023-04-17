@@ -1,2 +1,3 @@
 ﻿  main.c
+C:\Users\zheng\source\repos\PAT\1018锤子剪刀布\main.c(8): warning C4715: “change”: 不是所有的控件路径都返回值
   1018锤子剪刀布.vcxproj -> C:\Users\zheng\source\repos\PAT\Debug\1018锤子剪刀布.exe
